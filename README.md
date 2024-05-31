@@ -13,7 +13,7 @@
 </div>
 
 ## Tecnologies
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,discordjs,mongodb,py,notion,java,vscode)]()
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,discord,discordjs,mongodb,py,notion,java,vscode)](https://skillicons.dev)
 ##
 
 ## About me
