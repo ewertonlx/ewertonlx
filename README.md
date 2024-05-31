@@ -14,7 +14,7 @@
 </div>
 
 ## Languages and Tools 🛠️
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,mongodb,vscode,notion,discord,discordjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,mongodb,git,vscode,notion,discord,discordjs)](https://skillicons.dev)
 ##
 
 ## About me 📄
