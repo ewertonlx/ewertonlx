@@ -1,6 +1,5 @@
 ### Hello, my name is Ewerton! 👋
 
-## About me 📄
 **Hello, my name is Ewerton, I am Brazilian, 17 years old, and I am studying Information Systems. I am working towards becoming a full-stack developer, currently focusing on learning more about JavaScript, HTML, CSS, Node.js, Java, and Python.**
 
 ## Social ✉️
