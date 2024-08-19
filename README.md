@@ -1,6 +1,6 @@
-### Hello, my name is Ewerton! 👋
+### Olá, bem-vindo(a) ao meu GitHub! 👋
 
-**Hello, my name is Ewerton, I am Brazilian, 17 years old, and I am studying Information Systems. I am working towards becoming a full-stack developer, currently focusing on learning more about JavaScript, HTML, CSS, Node.js, Java, and Python.**
+**Olá, me chamo Ewerton, tenho 18 anos, e eu estou cursando Sistemas de Informações. Estou estudando para me tornar um desenvolvedor Full Stack, tenho conhecimento com as tecnologias: HTML, CSS, JavaScript, TypeScript, Java, Python, Git, MySQL e estou aprendendo sobre angular.**
 
 ## Social ✉️
 [![Social](https://skillicons.dev/icons?i=discord)](https://discord.com/users/551374220953649181)
@@ -8,15 +8,13 @@
 [![Social](https://skillicons.dev/icons?i=gmail)](mailto:ewerton123ofc@gmail.com)
 [![Social](https://skillicons.dev/icons?i=x)](mailto:ewerton123ofc@gmail.com)
 
-## Languages and Tools 🛠️
+## Linguagens e Ferramentas 🛠️
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,java,mongodb,git,vscode,notion,discord,discordjs)](https://skillicons.dev)
 ##
 
-## Information ℹ️
+## Informações ℹ️
 <div>
 <a href="https://www.github.com/ewertonlx">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ewertonlx&show_icons=true&theme=chartreuse-dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewertonlx&langs_count=8&layout=compact&theme=chartreuse-dark"/>
 </div>
-
-
