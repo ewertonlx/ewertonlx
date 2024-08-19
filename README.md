@@ -1,6 +1,6 @@
 ### Olá, bem-vindo(a) ao meu GitHub! 👋
 
-**Olá, me chamo Ewerton, tenho 18 anos, e eu estou cursando Sistemas de Informações. Estou estudando para me tornar um desenvolvedor Full Stack, tenho conhecimento com as tecnologias: HTML, CSS, JavaScript, TypeScript, Java, Python, Git, MySQL e estou aprendendo sobre angular.**
+**Olá, me chamo Ewerton, tenho 18 anos, e eu estou cursando Sistemas de Informações. Estou estudando para me tornar um desenvolvedor Full Stack, tenho conhecimento com as tecnologias: HTML, CSS, JavaScript, TypeScript, Java, Python, Git, MySQL e estou aprendendo sobre Angular.**
 
 ## Social ✉️
 [![Social](https://skillicons.dev/icons?i=discord)](https://discord.com/users/551374220953649181)
